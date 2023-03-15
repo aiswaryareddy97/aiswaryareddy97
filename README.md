@@ -12,13 +12,15 @@
   </a>
 </div>
 
+<div id="counter" align="center">                                                                                                                                    <img src="https://komarev.com/ghpvc/?username=aiswaryareddy97&style=flat-square&color=blue" alt="">
+</div>
 
 <h1 align="center">
   hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
+
 
 ### :woman_technologist: About Me :
 
@@ -29,7 +31,7 @@
 - :zap: In my free time, I read tech articles to be updated with the latest trends
 
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
