@@ -4,6 +4,15 @@
   <img src="https://media.giphy.com/media/Kb5zI3B9D7cCulbNOg/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aiswarya-reddy-059977167">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="aiswaryaankireddy97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 
 I am Aiswarya Reddy, a Master of Computing Graduate 👩🏻‍🎓 from the National University of Singapore (NUS).
 
