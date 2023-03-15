@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Kb5zI3B9D7cCulbNOg/giphy.gif" width="100"/>
+</div>
+
+
 I am Aiswarya Reddy, a Master of Computing Graduate 👩🏻‍🎓 from the National University of Singapore (NUS).
 
 - 👩🏻‍💻 Currently working as a Graduate Researcher in the SIA-NUS Digital Aviation Corporate Laboratory
