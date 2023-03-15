@@ -11,10 +11,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-      
-      
-<div id="counter" align="center">                                                                                                                                    <img src="https://komarev.com/ghpvc/?username=aiswaryareddy97&style=flat-square&color=blue" alt="">
-</div>
 
 
 <h1 align="center">
