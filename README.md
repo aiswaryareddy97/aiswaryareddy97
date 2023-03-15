@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="aiswaryaankireddy97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
   </a>
 </div>
       
@@ -26,11 +26,12 @@
 
 ### :woman_technologist: About Me :
 
-I am Aiswarya Reddy, a Master of Computing Graduate 👩🏻‍🎓 from the National University of Singapore (NUS).
+- :graduate: Master of Computing degree graduate from the National University of Singapore (NUS)
 
-- 👩🏻‍💻 Currently working as a Graduate Researcher in the SIA-NUS Digital Aviation Corporate Laboratory
-- 🙋🏻‍♀️ Former Application Consultant with NCS Hub
-- 🙎🏻‍♀️ Former .NET developer with Wells Fargo
+- :seedling: Exploring Data Science
+
+- :zap: In my free time, I read tech articles to be updated with the latest trends
+
 
 <!--
 **aiswaryareddy97/aiswaryareddy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
