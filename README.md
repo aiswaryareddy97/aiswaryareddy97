@@ -2,9 +2,9 @@
 
 I am Aiswarya Reddy, a Master of Computing Graduate 👩🏻‍🎓 from the National University of Singapore (NUS).
 
-👩🏻‍💻 Currently working as a Graduate Researcher in the SIA-NUS Digital Aviation Corporate Laboratory
-🙋🏻‍♀️ Former Application Consultant with NCS Hub
-🙎🏻‍♀️ Former .NET developer with Wells Fargo
+-👩🏻‍💻 Currently working as a Graduate Researcher in the SIA-NUS Digital Aviation Corporate Laboratory
+-🙋🏻‍♀️ Former Application Consultant with NCS Hub
+-🙎🏻‍♀️ Former .NET developer with Wells Fargo
 
 <!--
 **aiswaryareddy97/aiswaryareddy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
