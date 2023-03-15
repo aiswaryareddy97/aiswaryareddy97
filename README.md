@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="aiswaryaankireddy97@gmail.com">
-    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
       
@@ -26,9 +26,9 @@
 
 ### :woman_technologist: About Me :
 
-- :graduate: Master of Computing degree graduate from the National University of Singapore (NUS)
+- 👩‍🎓: Master of Computing degree graduate from the National University of Singapore (NUS)
 
-- :seedling: Exploring Data Science
+- 💻 Exploring Data Science
 
 - :zap: In my free time, I read tech articles to be updated with the latest trends
 
