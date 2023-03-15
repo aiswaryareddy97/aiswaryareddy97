@@ -1,5 +1,4 @@
-### Hi there 👋 Here's a sneak-peak of a develoepr trying to be a designer
-
+### 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Kb5zI3B9D7cCulbNOg/giphy.gif" width="100"/>
 </div>
@@ -18,9 +17,8 @@
 </div>
 
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+  hey there 👋 
 </h1>
 
 I am Aiswarya Reddy, a Master of Computing Graduate 👩🏻‍🎓 from the National University of Singapore (NUS).
