@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Here's a sneak-peak of a develoepr trying to be a designer
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Kb5zI3B9D7cCulbNOg/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align = "center>
   <a href="https://www.linkedin.com/in/aiswarya-reddy-059977167">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
