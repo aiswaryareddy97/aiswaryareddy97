@@ -28,7 +28,7 @@
 
 - 💻 Coding my way through life
 
-- :zap: In my free time, I read tech articles to be updated with the latest trends
+- :zap: In my free time, I read newsletters and tech articles to be updated with the latest trends
 
 
 ---
