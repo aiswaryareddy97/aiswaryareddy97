@@ -28,13 +28,16 @@
 - 💻 Previously worked with multi-modal data (visual, sensors) using machine learning and deep learning models.
 - 🤝 I am looking to collaborate on Generative AI projects (text, audio, visual). And would be happy to chat about the latest developments in this space.
 - 👩‍🎓 Master of Computing degree graduate from the National University of Singapore (NUS).
-- :zap: I try my best to stay updated with current research trends in AI. I maintain a spreadsheet with summaries of papers I have read which can be found by clicking on the badge
+- :zap: I try my best to stay updated with current research trends in AI.
+
+<!--
+- I maintain a spreadsheet with summaries of papers I have read which can be found by clicking on the badge
   <a href="https://docs.google.com/spreadsheets/d/1ym1KM8WuviLJj3O1nSFiebMoAKaeKeoSBZFL2TiQvvg/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Research_Papers-grey" alt=""/>
   </a>
 
 
-
+-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
