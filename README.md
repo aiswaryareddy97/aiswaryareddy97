@@ -30,7 +30,7 @@
 - 👩‍🎓 Master of Computing degree graduate from the National University of Singapore (NUS).
 - :zap: I try my best to stay updated with current research trends in AI. I maintain a spreadsheet with summaries of papers I have read which can be found at -->
   <a href="https://docs.google.com/spreadsheets/d/1ym1KM8WuviLJj3O1nSFiebMoAKaeKeoSBZFL2TiQvvg/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/research_papers-blue" alt=""/>
   </a>
 
 
