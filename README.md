@@ -24,7 +24,13 @@
 
 ### :woman_technologist: About Me :
 
-- 👩‍🎓 Master of Computing degree graduate from the National University of Singapore (NUS)
+- 👩🏻‍💻 I am currently working on large language models (text data) as an AI Researcher in a research lab at the National University of Singapore (NUS).
+
+- 💻 Previously worked with multi-modal data (visual, sensors) using machine learning and deep learning models.
+
+- 🤝 I am looking to collaborate on Generative AI projects.
+
+- 👩‍🎓 Master of Computing degree graduate from the National University of Singapore (NUS).
 
 - 💻 Coding my way through life
 
