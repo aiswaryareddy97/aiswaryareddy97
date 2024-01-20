@@ -26,10 +26,14 @@
 
 - 👩🏻‍💻 I am currently working on large language models (text data) as an AI Researcher in a research lab at the National University of Singapore (NUS).
 - 💻 Previously worked with multi-modal data (visual, sensors) using machine learning and deep learning models.
-- 🤝 I am looking to collaborate on Generative AI projects.
+- 🤝 I am looking to collaborate on Generative AI projects (text, audio, visual). And would be happy to chat about the latest developments in this space.
 - 👩‍🎓 Master of Computing degree graduate from the National University of Singapore (NUS).
-- 💻 Coding my way through life
-- :zap: In my free time, I read newsletters and tech articles to be updated with the latest trends
+- :zap: I try my best to stay updated with current research trends in AI. I maintain a spreadsheet with summaries of papers I have read which can be found at -->
+  <div id="badges" align = "center">
+  <a href="https://docs.google.com/spreadsheets/d/1ym1KM8WuviLJj3O1nSFiebMoAKaeKeoSBZFL2TiQvvg/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 
 
 ---
